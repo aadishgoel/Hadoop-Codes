@@ -1,7 +1,13 @@
 
 # Word Count
 
-Word Count Program can also be implemented using inbuilt mapper and reducer
-and is shown in file
+One way is to implement mapper and reduce by ourselves <br />
+And another is by using Inbuilt Mapper and Reducer
 
-countingDriver.java
+## Using User Defined 
+> wordCountDriver.java<br />
+> wordCountMapper.java<br />
+> wordCountReducer.java<br />
+
+## Using InBuilt
+> countingDriver.java
