@@ -2,7 +2,7 @@
 # Word Count
 
 One way is to implement mapper and reduce by ourselves <br />
-And another is by using Inbuilt Mapper and Reducer
+And another is by using Inbuilt mapper and reducer
 
 ## Using User Defined 
 > wordCountDriver.java<br />
